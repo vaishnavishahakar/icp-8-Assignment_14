@@ -21,6 +21,11 @@ body {
     text-align: center;
     box-shadow: 6px 6px #FBFADA;
 }
+.card:hover{
+    background-color: #EBE3D5;
+    box-shadow: 6px 6px #aaaaab;
+}
+
 .cardImage {
     height: 230px;
     margin-bottom: 10px;
