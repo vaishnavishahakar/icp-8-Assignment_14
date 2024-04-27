@@ -36,8 +36,16 @@ body {
     font-size: 20px;
     color: #ADBC9F;
 }
+.card:hover .cardHeading{
+    font-size: 20px;
+    color: #12372A; 
+}
 
 .card .cardSubHeading{
     font-size: 15px;
     color: #FBFADA;
+}
+.card:hover .cardSubHeading{
+    font-size: 15px;
+    color: #776B5D;
 }
